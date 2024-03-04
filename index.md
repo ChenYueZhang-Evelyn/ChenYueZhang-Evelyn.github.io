@@ -3,6 +3,10 @@ layout: homepage
 ---
 
 ## About Me
+I am the third-year Ph.D student in the Department of Systems Engineering and Engineering Management from the <a href="https://www.se.cuhk.edu.hk/" target="_blank"> Chinese University of Hong Kong</a>, supervised by <a href="https://www1.se.cuhk.edu.hk/~htwai/" target="_blank"> Prof. Hoi-To Wai</a>. Before that, I received my bachelor degree in Control Science and Engineering from Zhejiang University. 
+My research involves developing algorithms for structured nonconvex problems and provide theorectical analysis for it.
+
+
 
 <!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
 I'm a Ph.D. candidate in Statistics at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>,
