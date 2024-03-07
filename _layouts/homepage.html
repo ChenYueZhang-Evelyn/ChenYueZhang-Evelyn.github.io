@@ -42,11 +42,30 @@
         {% if site.avatar %}
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
+        <br>
+        {% if site.logo %}
+        <a class="image logo"><img src="{{ site.logo }}" alt="logo" /></a>
+        {% endif %}
 
         <h1>{{ site.title }}</h1>
+        {% if site.subtitle %}
+        <h3>{{ site.subtitle }}</h3>
+        {% endif %}
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
+        <br>
+        {% endif %}
+        {% if site.subposition %}
+        <a href="{{ site.subposition_link }}" class="no-color" rel="noopener" target="_blank">
+        <position style="font-size:0.95rem">{{ site.subposition }}</position>
+        </a>
+        <br>
+        {% endif %}
+        {% if site.subaffiliation %}
+        <a href="{{ site.subaffiliation_link }}" rel="noopener" target="_blank">
+        <autocolor>{{ site.subaffiliation }},</autocolor>
+        </a>
         <br>
         {% endif %}
         {% if site.affiliation %}
