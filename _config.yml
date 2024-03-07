@@ -28,8 +28,8 @@ github_link: https://github.com/ChenYueZhang-Evelyn
 linkedin: https://www.linkedin.com/in/chenyue-zhang-036020298/
 
 
-Images (e.g., your profile picture and your website's favicon) 
-"favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+#Images (e.g., your profile picture and your website's favicon) 
+#"favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 #avatar: ./assets/img/chenyue.png
 # logo: ./assets/img/CUHK-logo.png
 #favicon: ./assets/img/CUHK-logo.png
