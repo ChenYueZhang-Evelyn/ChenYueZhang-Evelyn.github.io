@@ -35,6 +35,7 @@ avatar: ./assets/img/chenyue.png
 favicon: ./assets/img/CUHK-logo.png
 #favicon_dark: ./assets/img/favicon-dark.png
 
+
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: false
