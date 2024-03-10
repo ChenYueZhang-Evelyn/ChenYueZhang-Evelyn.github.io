@@ -9,7 +9,7 @@ My research focuses on graph signal processing, network science, and the develop
 **I am eagerly seeking a postdoctoral position beginning in <font color=red>August 2025</font>!** 
 
 ## Publication/Preprint 
--<a href="https://www1.se.cuhk.edu.hk/~htwai/pdf/lcss-optprice.pdf"> Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents</a> [Submit to L-CSS]\\
+- <a href="https://www1.se.cuhk.edu.hk/~htwai/pdf/lcss-optprice.pdf"> Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents</a> [Submit to L-CSS]\\
 Jiamin Cai, **Chenyue Zhang**, Hoi-To Wai.
 
 - Learning Multiplex Graph with Inter-layer Coupling <a href="https://www1.se.cuhk.edu.hk/~htwai/pdf/multiplex-slides.pdf"> Slides</a> [ICASSP 2024]\\
@@ -23,6 +23,7 @@ Jiamin Cai, **Chenyue Zhang**, Hoi-To Wai.
 **Chenyue Zhang**, Yiran HE, Hoi-To Wai.
   
 ## Selected Honor & Awards
+
 - **[Dec. 2023]**  *<a href="https://www.hkauw.org/scholarship-recipients/" target="_blank">, HKAUW Postgraduate Scholarship</a>*, Hong Kong Association Of University Women
 - **[2021-2025]** *CUHK Postgraduate Student Scholarship*, The Chinese University of Hong Kong
 - **[2019-2020]** *First-Class Scholarship for Outstanding Merits, 2019-2020*, Zhejiang University
@@ -38,7 +39,6 @@ Jiamin Cai, **Chenyue Zhang**, Hoi-To Wai.
 - Reviewer, International Conference on Acoustics, Speech (ICASSP) 2024
 - Reviewer, International Conference on Acoustics, Speech (ICASSP) 2023
 
-## Courses
 
 ## Undergraduate Research Experience
 - A Distributed Algorithm for Solving Linear Equation in Finite Time, Zhejiang University, China, 2019- 2020 (Under the guidance of: <a href="https://sds.cuhk.edu.cn/en/teacher/428">Prof. Junfeng Wu</a>)
