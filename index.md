@@ -21,6 +21,7 @@ Jiamin Cai, **Chenyue Zhang**, Hoi-To Wai.
 
 - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096014"> Product Graph Learning From Multi-Attribute Graph Signals with Inter-Layer Coupling</a> [ICASSP 2023]\\
 **Chenyue Zhang**, Yiran HE, Hoi-To Wai.
+  
 ## Selected Honor & Awards
 - **[Dec. 2023]**  *<a href="https://www.hkauw.org/scholarship-recipients/" target="_blank">, HKAUW Postgraduate Scholarship</a>*, Hong Kong Association Of University Women
 - **[2021-2025]** *CUHK Postgraduate Student Scholarship*, The Chinese University of Hong Kong
@@ -37,8 +38,10 @@ Jiamin Cai, **Chenyue Zhang**, Hoi-To Wai.
 - Reviewer, International Conference on Acoustics, Speech (ICASSP) 2024
 - Reviewer, International Conference on Acoustics, Speech (ICASSP) 2023
 
+## Courses
+
 ## Undergraduate Research Experience
 - A Distributed Algorithm for Solving Linear Equation in Finite Time, Zhejiang University, China, 2019- 2020 (Under the guidance of: <a href="https://sds.cuhk.edu.cn/en/teacher/428">Prof. Junfeng Wu</a>)
 - A Deep Learning Algorithm for Non-Contact Sleep Monitoring, Zhejiang University, China, 2019-2020 (Under the guidance of: Professor <a href="https://person.zju.edu.cn/en/chhzhao">Prof. Chunhui Zhao</a> )
 - National College Student Innovation and Entrepreneurship Training Program Intelligent Leakage Pipeline Positioning Ball Zhejiang University, China, 05/2018-07/2019
-Co-Developer (<a href="https://person.zju.edu.cn/en/houdb">Prof. Chunhui Zhao</a> )
+Co-Developer (<a href="https://person.zju.edu.cn/en/houdb">Prof. Dibo Hou</a> )
