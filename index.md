@@ -10,7 +10,7 @@ My research interest focuses on graph signal processing, network science, and th
 **I am eagerly seeking a postdoctoral position beginning in <font color=red>August 2025</font>!** 
 
 ## Publication/Preprint 
-- Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents <a href="https://github.com/ChenYueZhang-Evelyn/cyzhang.github.io/blob/master/assets/files/lcss-optprice.pdf">[pdf]</a> \\
+- Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents <a href="https://github.com/ChenYueZhang-Evelyn/file/lcss-optprice.pdf">[pdf]</a> \\
 Jiamin Cai, **Chenyue Zhang**, Hoi-To Wai.
 Preprint 2024, submit to L-CSS.
 
