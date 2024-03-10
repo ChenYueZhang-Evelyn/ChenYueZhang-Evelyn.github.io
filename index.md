@@ -10,19 +10,23 @@ My research interest focuses on graph signal processing, network science, and th
 **I am eagerly seeking a postdoctoral position beginning in <font color=red>August 2025</font>!** 
 
 ## Publication/Preprint 
-- <a href="https://www1.se.cuhk.edu.hk/~htwai/pdf/lcss-optprice.pdf"> Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents</a> [Submit to L-CSS]\\
+- Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents <a href="https://github.com/ChenYueZhang-Evelyn/cyzhang.github.io/blob/master/assets/files/lcss-optprice.pdf">[pdf]</a> \\
 Jiamin Cai, **Chenyue Zhang**, Hoi-To Wai.
+Preprint 2024, submit to L-CSS.
 
-- Learning Multiplex Graph with Inter-layer Coupling <a href="https://www1.se.cuhk.edu.hk/~htwai/pdf/multiplex-slides.pdf"> Slides</a> [ICASSP 2024]\\
-**Chenyue Zhang**, Hoi-To Wai.
+- Learning Multiplex Graph with Inter-layer Coupling <a href="https://github.com/ChenYueZhang-Evelyn/cyzhang.github.io/blob/master/assets/files/multiplex_slide.pdf"> [Slides]</a> 
+**Chenyue Zhang**, Hoi-To Wai.\\
+International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)\\
 
-- <a href="https://arxiv.org/pdf/2306.01553.pdf"> Detecting Low Pass Graph Signals via Spectral Pattern: Sampling Complexity and Applications
-</a> [Revision under IEEE Transactions on Signal Processing] \\
-**Chenyue Zhang**, Yiran He, Hoi-To Wai.
+- Detecting Low Pass Graph Signals via Spectral Pattern: Sampling Complexity and Applications<a href="https://arxiv.org/pdf/2306.01553.pdf"> [arXiv] </a>\\
+**Chenyue Zhang**, Yiran He, Hoi-To Wai.\\
+Peprint 2023, revision under IEEE Transactions on Signal Processing] \\
 
-- <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096014"> Product Graph Learning From Multi-Attribute Graph Signals with Inter-Layer Coupling</a>\\
-[ICASSP 2023]\\
-**Chenyue Zhang**, Yiran He, Hoi-To Wai.
+
+- Product Graph Learning From Multi-Attribute Graph Signals with Inter-Layer Coupling <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096014">[pdf] </a>\\
+**Chenyue Zhang**, Yiran He, Hoi-To Wai.\\
+International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)\\
+
   
 ## Selected Honor & Awards
 
