@@ -20,7 +20,8 @@ Jiamin Cai, **Chenyue Zhang**, Hoi-To Wai.
 </a> [Revision under IEEE Transactions on Signal Processing] \\
 **Chenyue Zhang**, Yiran HE, Hoi-To Wai.
 
-- <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096014"> Product Graph Learning From Multi-Attribute Graph Signals with Inter-Layer Coupling</a> [ICASSP 2023]\\
+- <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096014"> Product Graph Learning From Multi-Attribute Graph Signals with Inter-Layer Coupling</a>
+\\[ICASSP 2023]\\
 **Chenyue Zhang**, Yiran HE, Hoi-To Wai.
   
 ## Selected Honor & Awards
