@@ -20,10 +20,10 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024
 
 - Detecting Low Pass Graph Signals via Spectral Pattern: Sampling Complexity and Applications<a href="https://arxiv.org/pdf/2306.01553.pdf"> [arXiv] </a>\\
 **Chenyue Zhang**, Yiran He, Hoi-To Wai.\\
-Peprint 2023, revision under IEEE Transactions on Signal Processing] 
+Preprint 2023, revision under IEEE Transactions on Signal Processing] 
 
 
-- Product Graph Learning From Multi-Attribute Graph Signals with Inter-Layer Coupling <a href="https://https://ChenYueZhang-Evelyn.github.io/files/product.pdf">[pdf] </a>\\
+- Product Graph Learning From Multi-Attribute Graph Signals with Inter-Layer Coupling <a href="https://https://ChenYueZhang-Evelyn.github.io/files/product_graph.pdf">[pdf] </a>\\
 **Chenyue Zhang**, Yiran He, Hoi-To Wai.\\
 International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)
 
