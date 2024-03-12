@@ -12,7 +12,7 @@ My research interest focuses on graph signal processing, network science, and th
 ## Publication/Preprint 
 - Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents <a href="https://ChenYueZhang-Evelyn.github.io/files/lcss-optprice.pdf">[pdf]</a> \\
 Jiamin Cai, **Chenyue Zhang**, Hoi-To Wai.\\
-Preprint 2024, submit to IEEE Control Systems Letters.
+Preprint 2024, submitted to IEEE Control Systems Letters.
 
 - Learning Multiplex Graph with Inter-layer Coupling <a href="https://ChenYueZhang-Evelyn.github.io/files/multiplex_slide.pdf"> [Slides]</a> \\
 **Chenyue Zhang**, Hoi-To Wai.\\
@@ -41,14 +41,14 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023
 - Reviewer, International Conference on Acoustics, Speech  (ICASSP) 2023
 
 ## Teaching Assistant
-- FTEC 2101: Optimization Methods (Instructor: <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-wai-hoi-to/">Prof. Hoi-To Wai</a>), 2022 Spring, 2023 Spring, 2024 Spring.
-- ESTR 2004: Discrete Mathematics for Engineers (Instructor: <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-wai-hoi-to/">Prof. Hoi-To Wai</a>), 2022 fall, 2023 fall.
+- FTEC 2101: Optimization Methods (Instructor: <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-wai-hoi-to/">Prof. Hoi-To Wai</a>), 2022/23/24 Spring.
+- ESTR 2004: Discrete Mathematics for Engineers (Instructor: <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-wai-hoi-to/">Prof. Hoi-To Wai</a>), 2022/23 fall.
 - ENGG 2440B: Discrete Mathematics for Engineers (Instructor: <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-wai-hoi-to/">Prof. Hoi-To Wai</a>), 2021 fall.
 
 ## Undergraduate Research Experience
-- A Distributed Algorithm for Solving Linear Equation in Finite Time, Zhejiang University, China, 2020-2021\\
- (Under the guidance of: <a href="https://sds.cuhk.edu.cn/en/teacher/428">Prof. Junfeng Wu</a>)
-- A Deep Learning Algorithm for Non-Contact Sleep Monitoring, Zhejiang University, China, 2019-2020\\
- (Under the guidance of: Professor <a href="https://person.zju.edu.cn/en/chhzhao">Prof. Chunhui Zhao</a>)
-- National College Student Innovation and Entrepreneurship Training Program Intelligent Leakage Pipeline Positioning Ball Zhejiang University, China, 2018-2019 \\
+- A Distributed Algorithm for Solving Linear Equation in Finite Time, Zhejiang University, 2020-2021\\
+ (Under the guidance of <a href="https://sds.cuhk.edu.cn/en/teacher/428">Prof. Junfeng Wu</a>)
+- A Deep Learning Algorithm for Non-Contact Sleep Monitoring, Zhejiang University, 2019-2020\\
+ (Under the guidance of Professor <a href="https://person.zju.edu.cn/en/chhzhao">Prof. Chunhui Zhao</a>)
+- National College Student Innovation and Entrepreneurship Training Program Intelligent Leakage Pipeline Positioning Ball Zhejiang University, 2018-2019 \\
 Co-Developer (<a href="https://person.zju.edu.cn/en/houdb">Prof. Dibo Hou</a>)
