@@ -30,7 +30,7 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023
   
 ## Honor & Awards
 
-- **[Dec. 2023]**  *<a href="https://www.hkauw.org/scholarship-recipients/" target="_blank"> HKAUW Postgraduate Scholarship</a>* Hong Kong Association Of University Women
+- **[Dec. 2023]**  *<a href="https://www.hkauw.org/scholarship-recipients/" target="_blank"> HKAUW Postgraduate Scholarship</a>*, Hong Kong Association Of University Women
 - **[2021-2025]** *CUHK Postgraduate Student Scholarship*, The Chinese University of Hong Kong
 - **[2020]** *First-Class Scholarship for Outstanding Merits, 2019-2020*, Zhejiang University
 - **[2020]** *Zhongkong Technology Company Scholarship*, Zhejiang Univeristy
