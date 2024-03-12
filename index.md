@@ -16,16 +16,16 @@ Preprint 2024, submit to IEEE Control Systems Letters.
 
 - Learning Multiplex Graph with Inter-layer Coupling <a href="https://github.com/ChenYueZhang-Evelyn/cyzhang.github.io/blob/master/assets/files/multiplex_slide.pdf"> [Slides]</a> 
 **Chenyue Zhang**, Hoi-To Wai.\\
-International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)\\
+International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)
 
 - Detecting Low Pass Graph Signals via Spectral Pattern: Sampling Complexity and Applications<a href="https://arxiv.org/pdf/2306.01553.pdf"> [arXiv] </a>\\
 **Chenyue Zhang**, Yiran He, Hoi-To Wai.\\
-Peprint 2023, revision under IEEE Transactions on Signal Processing] \\
+Peprint 2023, revision under IEEE Transactions on Signal Processing] 
 
 
 - Product Graph Learning From Multi-Attribute Graph Signals with Inter-Layer Coupling <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096014">[pdf] </a>\\
 **Chenyue Zhang**, Yiran He, Hoi-To Wai.\\
-International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)\\
+International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)
 
   
 ## Selected Honor & Awards
@@ -47,8 +47,8 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023
 
 ## Undergraduate Research Experience
 - A Distributed Algorithm for Solving Linear Equation in Finite Time, Zhejiang University, China, 2019- 2020\\
-- (Under the guidance of: <a href="https://sds.cuhk.edu.cn/en/teacher/428">Prof. Junfeng Wu</a>)
+ (Under the guidance of: <a href="https://sds.cuhk.edu.cn/en/teacher/428">Prof. Junfeng Wu</a>)
 - A Deep Learning Algorithm for Non-Contact Sleep Monitoring, Zhejiang University, China, 2019-2020\\
-- (Under the guidance of: Professor <a href="https://person.zju.edu.cn/en/chhzhao">Prof. Chunhui Zhao</a>)
+ (Under the guidance of: Professor <a href="https://person.zju.edu.cn/en/chhzhao">Prof. Chunhui Zhao</a>)
 - National College Student Innovation and Entrepreneurship Training Program Intelligent Leakage Pipeline Positioning Ball Zhejiang University, China, 05/2018-07/2019 \\
 Co-Developer (<a href="https://person.zju.edu.cn/en/houdb">Prof. Dibo Hou</a>)
