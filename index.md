@@ -28,12 +28,12 @@ Peprint 2023, revision under IEEE Transactions on Signal Processing]
 International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)
 
   
-## Selected Honor & Awards
+## Honor & Awards
 
 - **[Dec. 2023]**  *<a href="https://www.hkauw.org/scholarship-recipients/" target="_blank"> HKAUW Postgraduate Scholarship</a>* Hong Kong Association Of University Women
 - **[2021-2025]** *CUHK Postgraduate Student Scholarship*, The Chinese University of Hong Kong
-- **[2019-2020]** *First-Class Scholarship for Outstanding Merits, 2019-2020*, Zhejiang University
-- **[2019-2020]** *Zhongkong Technology Company Scholarship*, Zhejiang Univeristy
+- **[2020]** *First-Class Scholarship for Outstanding Merits, 2019-2020*, Zhejiang University
+- **[2020]** *Zhongkong Technology Company Scholarship*, Zhejiang Univeristy
 
 ## Professional Services
 - Reviewer, IEEE Transactions on Signal and Information Processing (TSIPN) 
@@ -46,9 +46,9 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023
 - ENGG 2440B: Discrete Mathematics for Engineers (Instructor: <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-wai-hoi-to/">Prof. Hoi-To Wai</a>), 2021 fall.
 
 ## Undergraduate Research Experience
-- A Distributed Algorithm for Solving Linear Equation in Finite Time, Zhejiang University, China, 2019- 2020\\
+- A Distributed Algorithm for Solving Linear Equation in Finite Time, Zhejiang University, China, 2020-2021\\
  (Under the guidance of: <a href="https://sds.cuhk.edu.cn/en/teacher/428">Prof. Junfeng Wu</a>)
 - A Deep Learning Algorithm for Non-Contact Sleep Monitoring, Zhejiang University, China, 2019-2020\\
  (Under the guidance of: Professor <a href="https://person.zju.edu.cn/en/chhzhao">Prof. Chunhui Zhao</a>)
-- National College Student Innovation and Entrepreneurship Training Program Intelligent Leakage Pipeline Positioning Ball Zhejiang University, China, 05/2018-07/2019 \\
+- National College Student Innovation and Entrepreneurship Training Program Intelligent Leakage Pipeline Positioning Ball Zhejiang University, China, 2018-2019 \\
 Co-Developer (<a href="https://person.zju.edu.cn/en/houdb">Prof. Dibo Hou</a>)
