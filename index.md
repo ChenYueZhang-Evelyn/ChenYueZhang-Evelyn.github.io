@@ -11,10 +11,10 @@ My research interest focuses on graph signal processing, network science, and th
 
 ## Publication/Preprint 
 - Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents <a href="https://github.com/ChenYueZhang-Evelyn/file/blob/main/lcss-optprice.pdf">[pdf]</a> \\
-Jiamin Cai, **Chenyue Zhang**, Hoi-To Wai.
+Jiamin Cai, **Chenyue Zhang**, Hoi-To Wai.\\
 Preprint 2024, submit to IEEE Control Systems Letters.
 
-- Learning Multiplex Graph with Inter-layer Coupling <a href="https://cyzhang.github.io/blob/files/multiplex_slide.pdf"> [Slides]</a> 
+- Learning Multiplex Graph with Inter-layer Coupling <a href="https://cyzhang.github.io/blob/files/multiplex_slide.pdf"> [Slides]</a> \\
 **Chenyue Zhang**, Hoi-To Wai.\\
 International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)
 
