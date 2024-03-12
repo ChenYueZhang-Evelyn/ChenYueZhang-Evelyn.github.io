@@ -47,8 +47,8 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023
 
 ## Undergraduate Research Experience
 - A Distributed Algorithm for Solving Linear Equation in Finite Time\\
-Zhejiang University, 2020-2021, Under the guidance of <a href="https://sds.cuhk.edu.cn/en/teacher/428">Prof. Junfeng Wu</a>
+Zhejiang University, China, 2020-2021, under the guidance of <a href="https://sds.cuhk.edu.cn/en/teacher/428">Prof. Junfeng Wu</a>
 - A Deep Learning Algorithm for Non-Contact Sleep Monitoring\\
- Zhejiang University, 2019-2020, Under the guidance of  <a href="https://person.zju.edu.cn/en/chhzhao">Prof. Chunhui Zhao</a>
+ Zhejiang University, China, 2019-2020, under the guidance of  <a href="https://person.zju.edu.cn/en/chhzhao">Prof. Chunhui Zhao</a>
 - National College Student Innovation and Entrepreneurship Training Program: Intelligent Leakage Pipeline Positioning Ball\\
-Zhejiang University, 2018-2019, Under the guidance of  (<a href="https://person.zju.edu.cn/en/houdb">Prof. Dibo Hou</a>)
+Zhejiang University, China, 2018-2019, under the guidance of  (<a href="https://person.zju.edu.cn/en/houdb">Prof. Dibo Hou</a>)
