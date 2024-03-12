@@ -23,7 +23,7 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024
 Preprint 2023, revision under IEEE Transactions on Signal Processing
 
 
-- Product Graph Learning From Multi-Attribute Graph Signals with Inter-Layer Coupling <a href="https://https://ChenYueZhang-Evelyn.github.io/files/product_graph.pdf">[pdf] </a>\\
+- Product Graph Learning From Multi-Attribute Graph Signals with Inter-Layer Coupling <a href="https://ChenYueZhang-Evelyn.github.io/files/product_graph.pdf">[pdf] </a>\\
 **Chenyue Zhang**, Yiran He, Hoi-To Wai.\\
 International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)
 
