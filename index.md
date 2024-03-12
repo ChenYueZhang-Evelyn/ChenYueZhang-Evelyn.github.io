@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a third-year Ph.D. student in the <a href="https://www.se.cuhk.edu.hk/" target="_blank"> Department of Systems Engineering and Engineering Management </a> from The  Chinese University of Hong Kong, supervised by <a href="https://www1.se.cuhk.edu.hk/~htwai/" target="_blank"> Prof. Hoi-To Wai</a>. Before that, I received my bachelor degree in Control Science and Engineering from Zhejiang University. 
+I am a third-year Ph.D. student in the <a href="https://www.se.cuhk.edu.hk/" target="_blank"> Department of Systems Engineering and Engineering Management </a> from The  Chinese University of Hong Kong, supervised by <a href="https://www1.se.cuhk.edu.hk/~htwai/" target="_blank"> Prof. Hoi-To Wai</a>. Before that, I received my bachelor's degree in Control Science and Engineering from Zhejiang University. 
 
 My research interest focuses on graph signal processing, network science, and the development of optimization algorithms and theoretical approaches in machine learning.
 
@@ -20,7 +20,7 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024
 
 - Detecting Low Pass Graph Signals via Spectral Pattern: Sampling Complexity and Applications<a href="https://arxiv.org/pdf/2306.01553.pdf"> [arXiv] </a>\\
 **Chenyue Zhang**, Yiran He, Hoi-To Wai.\\
-Preprint 2023, revision under IEEE Transactions on Signal Processing] 
+Preprint 2023, revision under IEEE Transactions on Signal Processing
 
 
 - Product Graph Learning From Multi-Attribute Graph Signals with Inter-Layer Coupling <a href="https://https://ChenYueZhang-Evelyn.github.io/files/product_graph.pdf">[pdf] </a>\\
