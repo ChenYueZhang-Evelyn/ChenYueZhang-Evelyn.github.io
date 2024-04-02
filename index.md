@@ -18,7 +18,7 @@ Preprint 2024, submitted to IEEE Control Systems Letters.
 **Chenyue Zhang**, Hoi-To Wai.\\
 International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)
 
-- Detecting Low Pass Graph Signals via Spectral Pattern: Sampling Complexity and Applications<a href="https://arxiv.org/pdf/2306.01553.pdf"> [arXiv] </a>\\
+- Detecting Low Pass Graph Signals via Spectral Pattern: Sampling Complexity and Applications<a href="https://arxiv.org/pdf/2306.01553.pdf"> [arXiv] <a href="https://ChenYueZhang-Evelyn.github.io/files/product_icassp2023.pdf">[Slides]</a>\\
 **Chenyue Zhang**, Yiran He, Hoi-To Wai.\\
 Preprint 2023, revision under IEEE Transactions on Signal Processing
 
