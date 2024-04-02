@@ -7,7 +7,7 @@ I am a third-year Ph.D. student in the <a href="https://www.se.cuhk.edu.hk/" tar
 
 My research interest focuses on graph signal processing, network science, and the development of optimization algorithms and theoretical approaches in machine learning.
 
-**I am eagerly seeking a postdoctoral position beginning in <font color=red>August 2025</font>!** 
+%**I am eagerly seeking a postdoctoral position beginning in <font color=red>August 2025</font>!** 
 
 ## Publication/Preprint 
 - Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents <a href="https://ChenYueZhang-Evelyn.github.io/files/lcss-optprice.pdf">[pdf]</a> \\
