@@ -13,7 +13,7 @@ My research interest focuses on graph signal processing, network science, and th
 Jiamin Cai, **Chenyue Zhang**, Hoi-To Wai.\\
 Preprint 2024, submitted to IEEE Control Systems Letters.
 
-- Learning Multiplex Graph with Inter-layer Coupling <a href="https://ChenYueZhang-Evelyn.github.io/files/multiplex_learn.pdf"> [pdf]</a> <a href="https://ChenYueZhang-Evelyn.github.io/files/multiplex_slide.pdf"> [Slides]</a> \\
+- Learning Multiplex Graph with Inter-layer Coupling <a href="https://ChenYueZhang-Evelyn.github.io/files/multiplex_learn.pdf"> [pdf]</a> <a href="https://ChenYueZhang-Evelyn.github.io/files/icassp2024_multiplex.pdf> [Slides]</a> \\
 **Chenyue Zhang**, Hoi-To Wai.\\
 International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)
 
