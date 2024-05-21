@@ -29,7 +29,7 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023
   
 ## Honor & Awards
 
-- **[May. 2024]** *CUHK Postgraduate Student Scholarship*, The Chinese University of Hong Kong
+- **[May. 2024]** *CUHK Reaching Out Award*, The Chinese University of Hong Kong
 - **[May. 2024]** *CUHK Overseas Research Attachment Programme Scholarship*, The Chinese University of Hong Kong
 - **[Dec. 2023]**  *<a href="https://www.hkauw.org/scholarship-recipients/" target="_blank"> HKAUW Postgraduate Scholarship</a>*, Hong Kong Association Of University Women
 - **[2021-2025]** *CUHK Postgraduate Student Scholarship*, The Chinese University of Hong Kong
