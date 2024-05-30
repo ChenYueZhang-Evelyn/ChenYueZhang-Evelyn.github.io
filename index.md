@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 I am a third-year Ph.D. student in the <a href="https://www.se.cuhk.edu.hk/" target="_blank"> Department of Systems Engineering and Engineering Management </a> from The  Chinese University of Hong Kong, supervised by <a href="https://www1.se.cuhk.edu.hk/~htwai/" target="_blank"> Prof. Hoi-To Wai</a>. Before that, I received my bachelor's degree in Control Science and Engineering from Zhejiang University. 
 
-My research interest focuses on graph signal processing, network science, and the development of optimization algorithms and theoretical approaches in machine learning.
+My research interest focuses on graph signal processing, network science, network games, and the development of optimization algorithms and theoretical approaches in machine learning.
 
 
 ## Publication/Preprint 
