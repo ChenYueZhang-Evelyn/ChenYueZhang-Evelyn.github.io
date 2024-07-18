@@ -7,13 +7,13 @@ I am a third-year Ph.D. student in the <a href="https://www.se.cuhk.edu.hk/" tar
 
 I am currently a visiting student with <a href="https://tech.cornell.edu/people/anna-scaglione/" target="_blank"> Prof. Anna Scaglione</a> at <a href="https://tech.cornell.edu/" target="_blank"> Cornell Tech </a> in New York City from July 2024 to December 2024.
 
-My research interest focuses on graph signal processing, network science, network games, and the development of optimization algorithms and theoretical approaches in machine learning.
+My research interest focuses on graph signal processing, network dynamics and network games, and optimization algorithms in machine learning.
 
 
 ## Publication/Preprint 
-- Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents <a href="https://arxiv.org/pdf/2405.01047">[arXiv]</a> \\
+- Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents <a href="https://ChenYueZhang-Evelyn.github.io/files/opt_price.pdf">[pdf]</a> \\
 Jiamin Cai, **Chenyue Zhang***, Hoi-To Wai.\\
-Preprint 2024, accepted by IEEE Control Systems Letters.
+IEEE Control Systems Letters.
 
 - Learning Multiplex Graph with Inter-layer Coupling <a href="https://ChenYueZhang-Evelyn.github.io/files/multiplex_learn.pdf"> [pdf]</a> <a href="https://ChenYueZhang-Evelyn.github.io/files/icassp2024_multiplex.pdf"> [Slides]</a> \\
 **Chenyue Zhang**, Hoi-To Wai.\\
