@@ -39,8 +39,8 @@ favicon: ./assets/img/CUHK-logo.png
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: false
 
-Google Analytics ID
-Please remove this if you don't use Google Analytics
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
 google_analytics: G-E1JFQ0E4C2
 
 # Use this project as a remote theme for GitHub Pages
