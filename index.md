@@ -13,7 +13,8 @@ My research interest focuses on graph signal processing, network dynamics and ne
 ## Publication/Preprint 
 - Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents <a href="https://ChenYueZhang-Evelyn.github.io/files/opt_price.pdf">[pdf]</a> \\
 Jiamin Cai, **Chenyue Zhang***, Hoi-To Wai.\\
-IEEE Control Systems Letters.
+IEEE Control Systems Letters.\\
+2024 Conference on Decision and Control
 
 - Learning Multiplex Graph with Inter-layer Coupling <a href="https://ChenYueZhang-Evelyn.github.io/files/multiplex_learn.pdf"> [pdf]</a> <a href="https://ChenYueZhang-Evelyn.github.io/files/icassp2024_multiplex.pdf"> [Slides]</a> \\
 **Chenyue Zhang**, Hoi-To Wai.\\
@@ -29,8 +30,8 @@ IEEE Transactions on Signal Processing
 International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)
 
   
-## Honor & Awards
-
+## Selected Honor & Awards
+- **[Sep. 2024]** *Student Travel & Workshop Support*, 2024 Conference on Decision and Control
 - **[May. 2024]** *CUHK Reaching Out Award*, The Chinese University of Hong Kong
 - **[May. 2024]** *CUHK Overseas Research Attachment Programme Scholarship*, The Chinese University of Hong Kong
 - **[Dec. 2023]**  *<a href="https://www.hkauw.org/scholarship-recipients/" target="_blank"> HKAUW Postgraduate Scholarship</a>*, Hong Kong Association Of University Women
