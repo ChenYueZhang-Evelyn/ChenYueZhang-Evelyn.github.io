@@ -7,7 +7,7 @@ I am a fourth-year Ph.D. student in the <a href="https://www.se.cuhk.edu.hk/" ta
 
 I am currently a visiting student with <a href="https://tech.cornell.edu/people/anna-scaglione/" target="_blank"> Prof. Anna Scaglione</a> at <a href="https://tech.cornell.edu/" target="_blank"> Cornell Tech </a> in New York City from July 2024 to December 2024.
 
-My research interest focuses on graph signal processing, network dynamics and network games, and optimization algorithms in machine learning.
+My research interest focuses on graph signal processing, network dynamics and network games, graph neural networks, and optimization algorithms in machine learning.
 
 
 ## Publication/Preprint 
