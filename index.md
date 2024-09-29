@@ -9,6 +9,7 @@ I am currently a visiting student with <a href="https://tech.cornell.edu/people/
 
 My research interest focuses on graph signal processing, network dynamics and network games, graph neural networks, and optimization algorithms in machine learning.
 
+**I am actively seeking a postdoctoral position beginning in September 2025!**
 
 ## Publication/Preprint 
 - Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents <a href="https://ChenYueZhang-Evelyn.github.io/files/opt_price.pdf">[pdf]</a> \\
