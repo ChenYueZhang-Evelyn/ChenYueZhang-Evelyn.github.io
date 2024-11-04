@@ -12,6 +12,9 @@ My research interest focuses on graph signal processing, network dynamics and ne
 **I am actively seeking a postdoctoral position beginning in September 2025!**
 
 ## Publication/Preprint 
+- Network Games Induced Prior for Graph Topology Learning <a href="https://arxiv.org/abs/2410.24095">[arxiv]</a> \\
+**Chenyue Zhang***, Shangyuan Liu, Hoi-To Wai, Anthony Man-Cho So.\\
+
 - Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents <a href="https://ChenYueZhang-Evelyn.github.io/files/opt_price.pdf">[pdf]</a> \\
 Jiamin Cai, **Chenyue Zhang***, Hoi-To Wai.\\
 IEEE Control Systems Letters.\\
