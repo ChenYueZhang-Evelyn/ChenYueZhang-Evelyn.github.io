@@ -9,7 +9,6 @@ I am currently a visiting student with <a href="https://tech.cornell.edu/people/
 
 My research interest focuses on graph signal processing, network dynamics and network games, graph neural networks, and optimization algorithms in machine learning.
 
-**I am actively seeking a postdoctoral position beginning in September 2025!**
 
 ## Publication/Preprint 
 - Network Games Induced Prior for Graph Topology Learning <a href="https://arxiv.org/abs/2410.24095">[arxiv]</a> \\
