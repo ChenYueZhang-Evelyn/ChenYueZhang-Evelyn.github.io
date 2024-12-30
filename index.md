@@ -3,16 +3,15 @@ layout: homepage
 ---
 
 ## About Me
-I am a fourth-year Ph.D. student in the <a href="https://www.se.cuhk.edu.hk/" target="_blank"> Department of Systems Engineering and Engineering Management </a> from The  Chinese University of Hong Kong, supervised by <a href="https://www1.se.cuhk.edu.hk/~htwai/" target="_blank"> Prof. Hoi-To Wai</a>. Before that, I received my bachelor's degree in Control Science and Engineering from Zhejiang University. 
-
-I am currently a visiting student with <a href="https://tech.cornell.edu/people/anna-scaglione/" target="_blank"> Prof. Anna Scaglione</a> at <a href="https://tech.cornell.edu/" target="_blank"> Cornell Tech </a> in New York City from July 2024 to December 2024.
+I am a fourth-year Ph.D. student in the <a href="https://www.se.cuhk.edu.hk/" target="_blank"> Department of Systems Engineering and Engineering Management </a> from The  Chinese University of Hong Kong, supervised by <a href="https://www1.se.cuhk.edu.hk/~htwai/" target="_blank"> Prof. Hoi-To Wai</a>. Before that, I received my bachelor's degree in Control Science and Engineering from Zhejiang University. From July to December 2024, I was a visiting student with <a href="https://tech.cornell.edu/people/anna-scaglione/" target="_blank"> Prof. Anna Scaglione</a> at <a href="https://tech.cornell.edu/" target="_blank"> Cornell Tech </a>.
 
 My research interest focuses on graph signal processing, network dynamics and network games, graph neural networks, and optimization algorithms in machine learning.
 
 
 ## Publication/Preprint 
 - Network Games Induced Prior for Graph Topology Learning <a href="https://arxiv.org/abs/2410.24095">[arxiv]</a> \\
-**Chenyue Zhang**, Shangyuan Liu, Hoi-To Wai, Anthony Man-Cho So.
+**Chenyue Zhang**, Shangyuan Liu, Hoi-To Wai, Anthony Man-Cho So.\\
+Accepted by International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)
 
 - Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents <a href="https://ChenYueZhang-Evelyn.github.io/files/opt_price.pdf">[pdf]</a> \\
 Jiamin Cai, **Chenyue Zhang***, Hoi-To Wai.\\
@@ -34,6 +33,7 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023
 
   
 ## Selected Honor & Awards
+- **[Dec. 2024]** *Outstanding Students Awards 2024*, The Chinese University of Hong Kong
 - **[Sep. 2024]** *Student Travel & Workshop Support*, 2024 Conference on Decision and Control
 - **[May. 2024]** *CUHK Reaching Out Award*, The Chinese University of Hong Kong
 - **[May. 2024]** *CUHK Overseas Research Attachment Programme Scholarship*, The Chinese University of Hong Kong
