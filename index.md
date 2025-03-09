@@ -33,6 +33,7 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023
 
   
 ## Selected Honor & Awards
+- **[Feb. 2025]** *IEEE ICASSP 2025 Conference Travel Grant*, IEEE Signal Processing Society
 - **[Dec. 2024]** *Outstanding Students Awards 2024*, The Chinese University of Hong Kong
 - **[Sep. 2024]** *Student Travel & Workshop Support*, 2024 Conference on Decision and Control
 - **[May. 2024]** *CUHK Reaching Out Award*, The Chinese University of Hong Kong
