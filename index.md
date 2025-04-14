@@ -11,8 +11,8 @@ My research interest focuses on graph signal processing, network dynamics and ne
 ## Publication/Preprint 
 - Network Games Induced Prior for Graph Topology Learning <a href="https://ChenYueZhang-Evelyn.github.io/files/net_infer.pdf">[pdf]</a> \\
 **Chenyue Zhang**, Shangyuan Liu, Hoi-To Wai, Anthony Man-Cho So.\\
-International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)
-**ICASSP 2025 Best Student Paper Award**\\
+International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)\\
+**ICASSP 2025 Best Student Paper Award**
 
 - Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents <a href="https://ChenYueZhang-Evelyn.github.io/files/opt_price.pdf">[pdf]</a> \\
 Jiamin Cai, **Chenyue Zhang***, Hoi-To Wai.\\
