@@ -34,7 +34,7 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023
 
   
 ## Selected Honor & Awards
-- **[Apr. 2025]** ICASSP 2025 Best Student Paper Award, IEEE Signal Processing Society
+- **[Apr. 2025]** *ICASSP 2025 Best Student Paper Award*, IEEE Signal Processing Society
 - **[Feb. 2025]** *IEEE ICASSP 2025 Conference Travel Grant*, IEEE Signal Processing Society
 - **[Dec. 2024]** *Outstanding Students Awards 2024*, The Chinese University of Hong Kong
 - **[Sep. 2024]** *Student Travel & Workshop Support*, 2024 Conference on Decision and Control
@@ -48,11 +48,10 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023
 ## Professional Services
 - Reviewer, IEEE Transactions on Signal Processing (TSP) 
 - Reviewer, IEEE Transactions on Signal and Information Processing (TSIPN) 
-- Reviewer, International Conference on Acoustics, Speech  (ICASSP) 2024
-- Reviewer, International Conference on Acoustics, Speech  (ICASSP) 2023
+- Reviewer, International Conference on Acoustics, Speech  (ICASSP) 2023/24/25
 
 ## Teaching Assistant
-- FTEC 2101: Optimization Methods (Instructor: <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-wai-hoi-to/">Prof. Hoi-To Wai</a>), 2022/23/24 Spring.
+- FTEC 2101: Optimization Methods (Instructor: <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-wai-hoi-to/">Prof. Hoi-To Wai</a>), 2022/23/24/25 Spring.
 - ESTR 2004: Discrete Mathematics for Engineers (Instructor: <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-wai-hoi-to/">Prof. Hoi-To Wai</a>), 2022/23 fall.
 - ENGG 2440B: Discrete Mathematics for Engineers (Instructor: <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-wai-hoi-to/">Prof. Hoi-To Wai</a>), 2021 fall.
 
