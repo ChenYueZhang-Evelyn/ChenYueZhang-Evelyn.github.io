@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a fourth-year Ph.D. student in the <a href="https://www.se.cuhk.edu.hk/" target="_blank"> Department of Systems Engineering and Engineering Management </a> from The  Chinese University of Hong Kong, supervised by <a href="https://www1.se.cuhk.edu.hk/~htwai/" target="_blank"> Prof. Hoi-To Wai</a>. Before that, I received my bachelor's degree in Control Science and Engineering from Zhejiang University. From July to December 2024, I was a visiting student with <a href="https://tech.cornell.edu/people/anna-scaglione/" target="_blank"> Prof. Anna Scaglione</a> at <a href="https://tech.cornell.edu/" target="_blank"> Cornell Tech </a>.
+I am currently a Postdoctoral Researcher working with <a href="https://tech.cornell.edu/people/anna-scaglione/" target="_blank"> Prof. Anna Scaglione</a> at <a href="https://tech.cornell.edu/" target="_blank"> Cornell Tech </a>. I received my Ph.D. in the <a href="https://www.se.cuhk.edu.hk/" target="_blank"> Department of Systems Engineering and Engineering Management </a> from The  Chinese University of Hong Kong, supervised by <a href="https://www1.se.cuhk.edu.hk/~htwai/" target="_blank"> Prof. Hoi-To Wai</a>.  Before that, I received my bachelor's degree in Control Science and Engineering from Zhejiang University. From July to December 2024, I was a visiting student with <a href="https://tech.cornell.edu/people/anna-scaglione/" target="_blank"> Prof. Anna Scaglione</a> at <a href="https://tech.cornell.edu/" target="_blank"> Cornell Tech </a>.
 
 My research interest focuses on graph signal processing, network dynamics and network games, graph neural networks, and optimization algorithms in machine learning.
 
