@@ -9,6 +9,14 @@ My research interest focuses on graph signal processing, network dynamics and ne
 
 
 ## Publication/Preprint 
+- Learning Graph Topology with Functional Priors via Bilevel Optimization <a href="https://arxiv.org/pdf/2606.13885">[arXiv]</a> \\
+**Chenyue Zhang**, Shangyuan Liu, Hoi-To Wai, Anthony Man-Cho So.\\
+arXiv preprint, 2026.
+
+- Differentially Private Synthetic Voltage Phasor Release for Distribution Grids <a href="https://arxiv.org/pdf/2605.02390">[arXiv]</a> \\
+Andrew Campbell, **Chenyue Zhang**, Anna Scaglione, Eli Kerr, Merilyn Chesler, Sean Peisert.\\
+arXiv preprint, 2026.
+
 - Network Games Induced Prior for Graph Topology Learning <a href="https://ChenYueZhang-Evelyn.github.io/files/net_infer.pdf">[pdf]</a> \\
 **Chenyue Zhang**, Shangyuan Liu, Hoi-To Wai, Anthony Man-Cho So.\\
 International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)\\
