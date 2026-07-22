@@ -9,9 +9,17 @@ My research interest focuses on graph signal processing, network dynamics and ne
 
 
 ## Publication/Preprint 
+- Differentially Private Synthetic Voltage Phasor Release via Power-Flow Propagation of Loads
+Andrew Campbell, **Chenyue Zhang**, Anna Scaglione, Eli Kerr, Merilyn Chesler, Sean Peisert.\\
+Accepted by the 2026 Asilomar Conference on Signals, Systems, and Computers.
+
+- Reconstruction Limits for Repeated Differentially Private Aggregates: A Cramer-Rao Perspective on Query Geometry <a href="https://arxiv.org/pdf/2606.19275">[arXiv]</a> \\
+**Chenyue Zhang**, Andrew Campbell, Anna Scaglione, Sean Peisert.\\
+A preliminary version was accepted by TPDP 2026. The journal version has been submitted to IEEE Transactions on Signal Processing.
+
 - Learning Graph Topology with Functional Priors via Bilevel Optimization <a href="https://arxiv.org/pdf/2606.13885">[arXiv]</a> \\
 **Chenyue Zhang**, Shangyuan Liu, Hoi-To Wai, Anthony Man-Cho So.\\
-arXiv preprint, 2026.
+Under minor revision at IEEE Transactions on Signal Processing
 
 - Differentially Private Synthetic Voltage Phasor Release for Distribution Grids <a href="https://arxiv.org/pdf/2605.02390">[arXiv]</a> \\
 Andrew Campbell, **Chenyue Zhang**, Anna Scaglione, Eli Kerr, Merilyn Chesler, Sean Peisert.\\
