@@ -9,7 +9,7 @@ My research interest focuses on graph signal processing, network dynamics and ne
 
 
 ## Publication/Preprint 
-- Differentially Private Synthetic Voltage Phasor Release via Power-Flow Propagation of Loads
+- Differentially Private Synthetic Voltage Phasor Release via Power-Flow Propagation of Loads\\
 Andrew Campbell, **Chenyue Zhang**, Anna Scaglione, Eli Kerr, Merilyn Chesler, Sean Peisert.\\
 Accepted by the 2026 Asilomar Conference on Signals, Systems, and Computers.
 
