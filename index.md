@@ -10,7 +10,7 @@ My research interest focuses on graph signal processing, differential privacy, n
 
 ## Publication/Preprint 
 - Differentially Private Synthetic Voltage Phasor Release via Power-Flow Propagation of Loads\\
-Andrew Campbell, **Chenyue Zhang**, Anna Scaglione, Eli Kerr, Merilyn Chesler, Sean Peisert.\\
+Andrew Campbell, **Chenyue Zhang**, Anna Scaglione, Sean Peisert.\\
 Accepted by the 2026 Asilomar Conference on Signals, Systems, and Computers.
 
 - Reconstruction Limits for Repeated Differentially Private Aggregates: A Cramer-Rao Perspective on Query Geometry <a href="https://arxiv.org/pdf/2606.19275">[arXiv]</a> \\
