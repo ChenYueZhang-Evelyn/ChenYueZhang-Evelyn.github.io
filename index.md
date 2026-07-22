@@ -15,15 +15,15 @@ Accepted by the 2026 Asilomar Conference on Signals, Systems, and Computers.
 
 - Reconstruction Limits for Repeated Differentially Private Aggregates: A Cramer-Rao Perspective on Query Geometry <a href="https://arxiv.org/pdf/2606.19275">[arXiv]</a> \\
 **Chenyue Zhang**, Andrew Campbell, Anna Scaglione, Sean Peisert.\\
-A preliminary version was accepted by TPDP 2026. The journal version has been submitted to IEEE Transactions on Signal Processing.
+Preliminary version accepted at TPDP 2026; journal version submitted to IEEE TSP.
 
 - Learning Graph Topology with Functional Priors via Bilevel Optimization <a href="https://arxiv.org/pdf/2606.13885">[arXiv]</a> \\
 **Chenyue Zhang**, Shangyuan Liu, Hoi-To Wai, Anthony Man-Cho So.\\
-Under minor revision at IEEE Transactions on Signal Processing
+Minor revision, IEEE Transactions on Signal Processing.
 
 - Differentially Private Synthetic Voltage Phasor Release for Distribution Grids <a href="https://arxiv.org/pdf/2605.02390">[arXiv]</a> \\
 Andrew Campbell, **Chenyue Zhang**, Anna Scaglione, Eli Kerr, Merilyn Chesler, Sean Peisert.\\
-arXiv preprint, 2026.
+arXiv preprint, 2026
 
 - Network Games Induced Prior for Graph Topology Learning <a href="https://ChenYueZhang-Evelyn.github.io/files/net_infer.pdf">[pdf]</a> \\
 **Chenyue Zhang**, Shangyuan Liu, Hoi-To Wai, Anthony Man-Cho So.\\
@@ -32,7 +32,7 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025
 
 - Optimal Pricing for Linear-Quadratic Games with Nonlinear Interaction Between Agents <a href="https://ChenYueZhang-Evelyn.github.io/files/opt_price.pdf">[pdf]</a> \\
 Jiamin Cai, **Chenyue Zhang***, Hoi-To Wai.\\
-IEEE Control Systems Letters.\\
+IEEE Control Systems Letters\\
 2024 Conference on Decision and Control
 
 - Learning Multiplex Graph with Inter-layer Coupling <a href="https://ChenYueZhang-Evelyn.github.io/files/multiplex_learn.pdf"> [pdf]</a> <a href="https://ChenYueZhang-Evelyn.github.io/files/icassp2024_multiplex.pdf"> [Slides]</a> \\
