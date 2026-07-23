@@ -72,10 +72,4 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023
 - ESTR 2004: Discrete Mathematics for Engineers (Instructor: <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-wai-hoi-to/">Prof. Hoi-To Wai</a>), 2022/23 fall.
 - ENGG 2440B: Discrete Mathematics for Engineers (Instructor: <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-wai-hoi-to/">Prof. Hoi-To Wai</a>), 2021 fall.
 
-## Undergraduate Research Experience
-- A Distributed Algorithm for Solving Linear Equation in Finite Time\\
-Zhejiang University, China, 2020-2021, under the guidance of <a href="https://sds.cuhk.edu.cn/en/teacher/428">Prof. Junfeng Wu</a>
-- A Deep Learning Algorithm for Non-Contact Sleep Monitoring\\
- Zhejiang University, China, 2019-2020, under the guidance of  <a href="https://person.zju.edu.cn/en/chhzhao">Prof. Chunhui Zhao</a>
-- National College Student Innovation and Entrepreneurship Training Program: Intelligent Leakage Pipeline Positioning Ball\\
-Zhejiang University, China, 2018-2019, under the guidance of  (<a href="https://person.zju.edu.cn/en/houdb">Prof. Dibo Hou</a>)
+
