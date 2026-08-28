@@ -13,13 +13,13 @@ My research interest focuses on graph signal processing, differential privacy, n
 Andrew Campbell, **Chenyue Zhang**, Anna Scaglione, Sean Peisert.\\
 Accepted by the 2026 Asilomar Conference on Signals, Systems, and Computers.
 
+- Learning Graph Topology with Functional Priors via Bilevel Optimization <a href="https://ieeexplore.ieee.org/document/11667300">[pdf]</a> \\
+**Chenyue Zhang**, Shangyuan Liu, Hoi-To Wai, Anthony Man-Cho So.\\
+Accepted by IEEE Transactions on Signal Processing.
+
 - Reconstruction Limits for Repeated Differentially Private Aggregates: A Cramer-Rao Perspective on Query Geometry <a href="https://arxiv.org/pdf/2606.19275">[arXiv]</a> \\
 **Chenyue Zhang**, Andrew Campbell, Anna Scaglione, Sean Peisert.\\
 Preliminary version accepted at TPDP 2026; journal version submitted to IEEE TSP.
-
-- Learning Graph Topology with Functional Priors via Bilevel Optimization <a href="https://arxiv.org/pdf/2606.13885">[arXiv]</a> \\
-**Chenyue Zhang**, Shangyuan Liu, Hoi-To Wai, Anthony Man-Cho So.\\
-Accepted by IEEE Transactions on Signal Processing.
 
 - Differentially Private Synthetic Voltage Phasor Release for Distribution Grids <a href="https://arxiv.org/pdf/2605.02390">[arXiv]</a> \\
 Andrew Campbell, **Chenyue Zhang**, Anna Scaglione, Eli Kerr, Merilyn Chesler, Sean Peisert.\\
