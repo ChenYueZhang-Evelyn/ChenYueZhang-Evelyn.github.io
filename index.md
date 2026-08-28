@@ -15,7 +15,7 @@ Accepted by the 2026 Asilomar Conference on Signals, Systems, and Computers.
 
 - Learning Graph Topology with Functional Priors via Bilevel Optimization <a href="https://ieeexplore.ieee.org/document/11667300">[pdf]</a> \\
 **Chenyue Zhang**, Shangyuan Liu, Hoi-To Wai, Anthony Man-Cho So.\\
-Accepted by IEEE Transactions on Signal Processing.
+IEEE Transactions on Signal Processing.
 
 - Reconstruction Limits for Repeated Differentially Private Aggregates: A Cramer-Rao Perspective on Query Geometry <a href="https://arxiv.org/pdf/2606.19275">[arXiv]</a> \\
 **Chenyue Zhang**, Andrew Campbell, Anna Scaglione, Sean Peisert.\\
