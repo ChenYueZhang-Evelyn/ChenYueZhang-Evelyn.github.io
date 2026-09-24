@@ -13,7 +13,7 @@ My research interest focuses on graph signal processing, differential privacy, n
 Andrew Campbell, **Chenyue Zhang**, Anna Scaglione, Sean Peisert.\\
 Accepted by the 2026 Asilomar Conference on Signals, Systems, and Computers.
 
-- Learning Graph Topology with Functional Priors via Bilevel Optimization <a href="https://ieeexplore.ieee.org/document/11667300">[pdf]</a> \\
+- Learning Graph Topology with Functional Priors via Bilevel Optimization <a href="https://ChenYueZhang-Evelyn.github.io/files/tsp_functional">[pdf]</a> \\
 **Chenyue Zhang**, Shangyuan Liu, Hoi-To Wai, Anthony Man-Cho So.\\
 IEEE Transactions on Signal Processing.
 
