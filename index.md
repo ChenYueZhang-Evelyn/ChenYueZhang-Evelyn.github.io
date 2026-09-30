@@ -13,10 +13,13 @@ My research interest focuses on graph signal processing, differential privacy, n
 **Chenyue Zhang**, Andrew Campbell, Anna Scaglione, Sean Peisert.\\
 Preliminary version accepted at TPDP 2026; journal version under revision for IEEE Transactions on Signal Processing.
 
+- When Do Differentially Private Inputs Protect Graph Shift Operators? <a href="https://arxiv.org/pdf/2609.28899">[arXiv]</a> \\
+Andrew Campbell, **Chenyue Zhang**, Hang Liu, Victor Elvira, Anna Scaglione, Sean Peisert.\\
+arXiv preprint, 2026; submitted to IEEE Open Journal of Signal Processing.
+
 - Learning Graph Topology with Functional Priors via Bilevel Optimization <a href="https://ChenYueZhang-Evelyn.github.io/files/tsp_functional.pdf">[pdf]</a> \\
 **Chenyue Zhang**, Shangyuan Liu, Hoi-To Wai, Anthony Man-Cho So.\\
 IEEE Transactions on Signal Processing.
-
 
 - Differentially Private Synthetic Voltage Phasor Release via Power-Flow Propagation of Loads\\
 Andrew Campbell, **Chenyue Zhang**, Anna Scaglione, Sean Peisert.\\
